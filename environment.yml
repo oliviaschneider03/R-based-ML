@@ -1,0 +1,28 @@
+name: Assignment-5-r
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - r-caret
+  - r-base
+  - r-irkernel
+  - r-ggplot2
+  - r-tidyverse
+  - r-stringi
+  - r-stringr
+  - r-tidyr
+  - r-recipes
+  - r-reshape2
+  - r-devtools
+  - r-remotes
+  - r-tibble
+  - r-lattice
+  - r-foreach
+  - r-modelmetrics
+  - r-glmnet
+  - r-plyr
+  - r-randomforest
+  - r-e1071
+  - r-ellipse
